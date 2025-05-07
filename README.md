@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **JavaScript**, **React**, and building real-world projects
 - 🧑‍💻 All of my projects are available at [GitHub](https://github.com/mrstrange1708)
 - 💬 Ask me about **Frontend Development**, **DSA**, or **Tech Ethics in Islam**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **shaik.sami2024@nst.rishihood.edu.in**
 - ⚡ Fun fact: I learn better when I teach others
 
 ---
@@ -47,7 +47,7 @@
 
 ### 🚀 Let's Connect
 
-- LinkedIn: *(Add link here)*
+- LinkedIn: *https://www.linkedin.com/in/shaik-mohammed-junaid-sami-20885430b/*
 - Portfolio: *(Coming soon)*
 - GitHub: [@mrstrange1708](https://github.com/mrstrange1708)
 
