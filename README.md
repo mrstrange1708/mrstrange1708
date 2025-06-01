@@ -48,7 +48,7 @@
 ### 🚀 Let's Connect
 
 - LinkedIn: *https://www.linkedin.com/in/shaik-mohammed-junaid-sami-20885430b/*
-- Portfolio: *https://shaik-portfolio-git-main-mrstrange1708s-projects.vercel.app/*
+- Portfolio: *https://shaik-portfolio-xi.vercel.app/*
 - GitHub: [@mrstrange1708](https://github.com/mrstrange1708)
 
 ---
