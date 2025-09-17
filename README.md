@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Mohammed Junaid Sami</h1>
-<h3 align="center">Aspiring Frontend Developer | Ethical Muslim Coder | Lifelong Learner</h3>
+<h3 align="center">Aspiring Frontend Developer | Lifelong Learner</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**, **React**, and building real-world projects
 - 🧑‍💻 All of my projects are available at [GitHub](https://github.com/mrstrange1708)
-- 💬 Ask me about **Frontend Development**, **DSA**, or **Tech Ethics in Islam**
+- 💬 Ask me about **Frontend Development**, **DSA**
 - 📫 Reach me at: **shaik.sami2024@nst.rishihood.edu.in**
 - ⚡ Fun fact: I learn better when I teach others
 
