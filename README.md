@@ -42,13 +42,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrstranger1708&show_icons=true&theme=tokyonight" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstranger1708&theme=tokyonight" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrstrange1708&show_icons=true&theme=tokyonight" height="170" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight" height="170" alt="streak graph" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrstranger1708&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrstrange1708&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
