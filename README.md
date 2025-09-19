@@ -1,51 +1,54 @@
-<h1 align="center">Hi 👋, I'm Shaik Mohammed Junaid Sami</h1>
-<h3 align="center">Aspiring Frontend Developer | Lifelong Learner</h3>
+# Hi, I'm Mr Strange 👋  
+
+🚀 **Aspiring Software Engineer | JavaScript Developer | MERN Enthusiast**  
+
+I'm a student at **Newton School of Technology** on a mission to crack a big tech company while building useful projects that solve real problems. I enjoy blending logic, creativity, and clean design to bring ideas to life.  
 
 ---
 
-### 🧠 About Me
-
-- 🌱 I’m currently learning **JavaScript**, **React**, and building real-world projects
-- 🧑‍💻 All of my projects are available at [GitHub](https://github.com/mrstrange1708)
-- 💬 Ask me about **Frontend Development**, **DSA**
-- 📫 Reach me at: **shaik.sami2024@nst.rishihood.edu.in**
-- ⚡ Fun fact: I learn better when I teach others
+## 🛠️ Tech Stack  
+- **Languages**: JavaScript, Python, SQL  
+- **Frontend**: React, Next.js, Tailwind, Framer Motion, GSAP  
+- **Backend**: Node.js, Express.js, MongoDB, Supabase  
+- **Other Tools**: Git, GitHub, Firebase, Prisma  
 
 ---
 
-### 🛠️ Technologies I Work With
+## 💼 Projects  
+✨ Here are some of my works:  
 
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🛍️ **E-Commerce Website** – Full MERN stack project with authentication, cart, payments, and product management.  
+- 📊 **Expense Tracker** – Track daily expenses, visualize reports, and manage finances.  
+- ✅ **TaskLoad (Project Management Tool)** – JWT auth, CRUD tasks, deadlines, and calendar view.  
+- 🎮 **Tic-Tac-Toe Game** – Classic logic-based game with modern UI.  
+
+> Check my repos for more 👇  
 
 ---
 
-### 📊 GitHub Stats & Graphs
-
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrstrange1708&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrstrange1708&theme=github-dark&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrstranger1708&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstranger1708&theme=radical" alt="Streak Stats" height="150"/>  
+</p>  
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrstrange1708&theme=discord&no-frame=true&title=Stars,Commits,Repositories,Followers,PullRequest" />
-</p>
+## 🌱 What I'm Learning  
+- Advanced DSA for coding interviews  
+- Full MERN stack with production-level projects  
+- Freelancing with Shopify, WordPress, and custom web apps  
 
 ---
 
-### 🚀 Let's Connect
+## 📫 Let's Connect  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🐦 [Twitter](https://twitter.com/your-link)  
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
+
+---
+
+⭐️ If you like my work, consider following me or giving a ⭐ to my repositories!  
 
 - LinkedIn: *https://www.linkedin.com/in/shaik-mohammed-junaid-sami-20885430b/*
 - Portfolio: *https://shaik-portfolio-xi.vercel.app/*
