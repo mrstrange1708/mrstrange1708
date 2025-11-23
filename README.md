@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Shaik</h1>
-<h3 align="center">Web Developer · AI Enthusiast · Freelancer</h3>
+<h3 align="center">Full Stack Developer · AI Enthusiast · Freelancer</h3>
 
 ---
 
