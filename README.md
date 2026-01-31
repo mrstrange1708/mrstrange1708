@@ -2,13 +2,12 @@
 
 # 👋 Hi, I'm Junaid Shaik
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Freelancer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=   - Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Freelancer;" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrstrange1708)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/junaidsamishaik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theshaik.tech)
 </div>
 
 ---
@@ -159,7 +158,7 @@ const junaid = {
 | 🟦 **Codeforces** | 950+ | Active |
 | 🌟 **HacktoberFest** | Super Contributor | 2024 |
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourprofile?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/yourprofile)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/junaidsamishaik?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/junaidsamishaik)
 
 </div>
 
@@ -244,10 +243,10 @@ Ensuring high-quality, maintainable code and smooth project execution
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaik.sami2024@nst.rishihood.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-mohammed-junaid-sami-20885430b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrstrange1708)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/junaidsamishaik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theshaik.tech)
 
 **💬 Open to collaborations, freelance projects, and interesting opportunities!**
 
