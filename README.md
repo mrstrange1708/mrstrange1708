@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Junaid Shaik
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=FFull+Stack+Developer+%7C+AI+Enthusiast+%7C+Freelancer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=FFull+Stack+Developer+%7C+AI+Enthusiast+%7C+Freelancer;" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrstrange1708)
@@ -146,6 +146,14 @@ const junaid = {
 
 </div>
 
+<div align="center">
+
+### Contribution Graph
+
+![Snake animation](https://github.com/mrstrange1708/mrstrange1708/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 🏆 Competitive Programming
@@ -189,39 +197,6 @@ gantt
 
 ---
 
-## 🎓 Education & Achievements
-
-<div align="center">
-
-| Degree | Institution | Grade |
-|--------|-------------|-------|
-| 🎓 **B.Tech in Artificial Intelligence** | Newton School of Technology, Rishihood University | **7.97/10** |
-| 📘 **Class XII (Intermediate)** | Narayana Junior College | **91.7%** |
-| 📗 **Class X (Matriculation)** | Montessori High School | **91.3%** |
-
-</div>
-
----
-
-## 🌟 Leadership & Contributions
-
-<div align="center">
-
-### 👨‍💻 Tech Lead - Finanza Club
-**Chief GitHub Maintainer**
-
-Managing end-to-end design, development, and repository maintenance  
-Ensuring high-quality, maintainable code and smooth project execution
-
-### 🏅 Open Source Contributions
-- **HacktoberFest Super Contributor** - Recognized for consistent participation
-- Active problem-solver with strong competitive coding engagement
-- Contributor to various open-source projects
-
-</div>
-
----
-
 ## 📈 Current Focus
 
 <div align="center">
@@ -249,16 +224,6 @@ Ensuring high-quality, maintainable code and smooth project execution
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theshaik.tech)
 
 **💬 Open to collaborations, freelance projects, and interesting opportunities!**
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://github.com/mrstrange1708/mrstrange1708/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
