@@ -50,7 +50,9 @@
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrstrange1708&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
-
+<div>
+![Snake animation](https://github.com/yatinsingh2007/yatinsingh2007/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 ---
 
 ## ⚡ Fun Touch
@@ -69,3 +71,5 @@
   <a href="https://www.linkedin.com/in/shaik-mohammed-junaid-sami-20885430b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mrstranger1708"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
+
+
