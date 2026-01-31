@@ -137,7 +137,7 @@ const junaid = {
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=mrstrange1708&theme=dark&hide_border=true" alt="mrstrange1708's GitHub Stats" />
+![GitHub Stats](https://streak-stats.demolab.com?user=mrstrange1708&theme=dark&hide_border=true)
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight&hide_border=true" />
 
