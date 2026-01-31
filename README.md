@@ -63,7 +63,6 @@ const junaid = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🗄️ Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -138,11 +137,13 @@ const junaid = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrstrange1708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mrstrange1708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrange1708&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrstrange1708&theme=tokyonight" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrange1708&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrstrange1708&theme=tokyonight" />
 
 </div>
 
