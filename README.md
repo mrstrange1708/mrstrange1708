@@ -138,10 +138,7 @@ const junaid = {
 <div align="center">
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=mrstrange1708&theme=dark&hide_border=true)
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrange1708&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrstrange1708&theme=tokyonight" />
 
