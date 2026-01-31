@@ -142,11 +142,9 @@ const junaid = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrange1708&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrstrange1708&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrstrange1708&theme=tokyonight" />
 
 </div>
-
-<div align="center">
 
 ### Contribution Graph
 
