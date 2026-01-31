@@ -136,8 +136,8 @@ const junaid = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mrstrange1708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=mrstrange1708&theme=dark&hide_border=true" alt="mrstrange1708's GitHub Stats" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstrange1708&theme=tokyonight&hide_border=true" />
 
