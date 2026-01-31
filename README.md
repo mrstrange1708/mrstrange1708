@@ -50,9 +50,9 @@
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrstrange1708&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
-<div>
-![Snake animation](https://github.com/yatinsingh2007/yatinsingh2007/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
+
+![Snake animation](https://github.com/mrstrange1708/mrstrange1708/blob/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## ⚡ Fun Touch
