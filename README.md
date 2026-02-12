@@ -157,7 +157,7 @@ const junaid = {
 
 | Platform | Rating | Problems Solved |
 |----------|--------|-----------------|
-| 🟨 **LeetCode** | 1600+ | 450+ |
+| 🟨 **LeetCode** | 1700+ | 500+ |
 | 🟦 **Codeforces** | 950+ | Active |
 | 🌟 **HacktoberFest** | Super Contributor | 2024 |
 
